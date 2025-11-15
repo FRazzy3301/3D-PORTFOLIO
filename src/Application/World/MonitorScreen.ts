@@ -190,7 +190,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'http://localhost:3000/';
+        iframe.src = 'https://os-web-simulation-ji6k-p85qdoc2p-frazzy3301s-projects.vercel.app/projects';
         /**
          * Use dev server is query params are present
          *
